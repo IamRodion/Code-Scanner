@@ -59,5 +59,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 Se puede probar el bot [aquí](https://t.me/TheCodeScannerBot) o escaneando el siguiente código QR:
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-    <img src="qr.png" alt="Código QR" style="max-height: 70%; max-width: 70%;">
+    <img src="qr.png" alt="Código QR" style="max-height: 50%; max-width: 50%;">
 </div>
