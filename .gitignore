@@ -1,6 +1,9 @@
 # Archivos temporales
 image.png
 
+# Archivos del servicio
+code-scanner.service
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
